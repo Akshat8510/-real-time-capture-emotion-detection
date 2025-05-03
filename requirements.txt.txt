@@ -1,0 +1,16 @@
+Requirements for Face Emoji Reactor:-
+
+opencv-python
+matplotlib
+fer
+tensorflow
+mtcnn
+
+Optional: If you want strict versions (for compatibility):
+
+opencv-python==4.8.0.76
+matplotlib==3.8.0
+fer==22.4.0
+tensorflow==2.14.0
+mtcnn==0.1.1
+
